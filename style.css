@@ -420,6 +420,7 @@ nav .fa-solid{
     nav .fa-solid{
         display:block;
         font-size: 25px;
+        margin-left:100%;
     }
 
     nav ul{
